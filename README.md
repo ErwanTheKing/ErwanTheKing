@@ -9,7 +9,7 @@
     📌 I live in Grasse in the Alpes maritimes in France<br>
     📄 You can acces to my curriculum vitae <a href="https://github.com/toro-nicolas/toro-nicolas/blob/main/TORO%20Nicolas%20-%20CV.pdf">here</a>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%8E%93;Starting+my+journey+at+Epitech+%F0%9F%8E%93;C+programming+%F0%9F%92%BB;Exploring+Full-Stack+development+%F0%9F%8C%90;Diving+into+AI+and+Data+science+%F0%9F%A4%96;Curious+about+cybersecurity+%F0%9F%94%92;Always+coding,+always+growing+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;Starting+my+journey+at+Epitech+%F0%9F%8E%93;C+programming+%F0%9F%92%BB;Exploring+Full-Stack+development+%F0%9F%8C%90;Diving+into+AI+and+Data+science+%F0%9F%A4%96;Curious+about+cybersecurity+%F0%9F%94%92;Always+coding,+always+growing+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ErwanTheKing&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ErwanTheKing)
 [![GitHub Followers](https://img.shields.io/github/followers/ErwanTheKing?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&logo=github)](https://github.com/ErwanTheKing?tab=followers)
