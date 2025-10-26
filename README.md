@@ -43,7 +43,7 @@
 
 ## 📫 Contact Me
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) `erwan.lo-presti@epitech.eu`  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/erwanlo](https://www.linkedin.com/in/erwanlo)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Erwan](https://www.linkedin.com/in/erwanlo)  
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) `erwanlo`
 
 ---
