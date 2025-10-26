@@ -1,7 +1,14 @@
 <div align="center">
 
-![Cybersecurity Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=JOKER&fontSize=90&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Specialist%20%7C%20Low-Level%20Wizard%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60&descSize=18)
-
+<h1 align="center">Hi 👋, I'm Erwan Lo presti !</h1>
+<h3 align="center">👨🏻‍🦱 About me</h3>
+<p align="center">
+    🌐 I'm Erwan Lo Presit, an 20 year old French student<br>
+    🎓 I'm in my 1st year at Epitech (class of 2030) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
+    ✍️ I'm learning computer science and programming<br>
+    📌 I live in Grasse in the Alpes maritimes in France<br>
+    📄 You can acces to my curriculum vitae <a href="https://github.com/toro-nicolas/toro-nicolas/blob/main/TORO%20Nicolas%20-%20CV.pdf">here</a>
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Welcome+to+my+profil%F0%9F%91%BE;Penetration+Testing+Enthusiast+%F0%9F%94%90;Low-Level+C+Programming+Master+%E2%9A%A1;Full-Stack+Web+Developer+%F0%9F%8C%90;Always+Learning%2C+Always+Hacking+%F0%9F%A7%A0" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ErwanTheKing&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ErwanTheKing)
