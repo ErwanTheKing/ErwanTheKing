@@ -1,53 +1,57 @@
-# 👋 Salut ! Je suis [Ton Nom]
-
-Bienvenue sur mon profil GitHub !  
-Je suis passionné par **la cybersécurité, le développement et les nouvelles technologies**. J’aime créer des projets pratiques et apprendre de nouvelles compétences chaque jour.  
+<h1 align="center">Salut ! 👋 Je suis [Ton Nom]</h1>
+<p align="center">Étudiant en cybersécurité | Passionné de code et de nouvelles technologies</p>
 
 ---
 
-## 🔭 Ce sur quoi je travaille
+## 💻 À propos de moi
 
-- 🛡️ Projets en **cybersécurité et pentesting**
-- 💻 Développement de **scripts et outils automatisés**
-- 🌱 Apprentissage continu sur **Linux, Python avancé et sécurité réseau**
+- 🎓 Étudiant en **Bachelor Cybersécurité**  
+- 🔍 Passionné par : pentesting, scripts automatisés, Linux  
+- 🌱 En apprentissage : Python avancé, sécurité réseau, Docker  
+- ⚡ Fun fact : j’adore le sport 🏋️‍♂️ et l’escalade 🧗‍♂️  
 
 ---
 
 ## 🛠️ Compétences
 
-### Langages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c%2B%2B) 
-
-### Frameworks / Outils
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-
-### Autres
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![Clion](https://img.shields.io/badge/-Clion-333?style=flat&logo=clion)
-
----
-
-## 📂 Projets récents
-
-- **[Projet CyberSec](lien)** – Outil d’analyse de vulnérabilités réseau.  
-- **[Script Automatisation](lien)** – Script Python pour automatiser des tâches répétitives.  
-- **[Mini-WebApp](lien)** – Application web simple avec Flask/Django.  
-
-> Pour voir tous mes projets : [Repositories](https://github.com/tonnom)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Me contacter
+## 🚀 Projets récents
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ton.email@example.com) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tonprofil)
+| Projet | Description | Langages / Outils |
+|--------|-------------|-----------------|
+| [Projet CyberSec](lien) | Outil d’analyse de vulnérabilités réseau | Python, Bash |
+| [Script Automatisation](lien) | Automatise des tâches répétitives | Python |
+| [Mini-WebApp](lien) | Application web simple | Flask, HTML/CSS |
+
+> 🔗 Pour tous mes projets : [Repositories](https://github.com/tonnom)
+
+---
+
+## 📫 Contact
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/tonprofil"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 📊 Statistiques GitHub
 
-![TonNom GitHub stats](https://github-readme-stats.vercel.app/api?username=tonnom&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnom&layout=compact&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tonnom&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnom&layout=compact&theme=tokyonight" />
+</p>
