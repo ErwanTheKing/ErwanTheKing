@@ -1,0 +1,25 @@
+name: Flappy README
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # toutes les 10 minutes
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run Flappy Script
+        run: python flappy.py
+      - name: Commit updated README
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Flappy Bird"
+          git push
