@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Erwan Lo Presti !</h1>
 <h3 align="center">👨🏻‍🦱 About me</h3>
 <p align="center">
-    🌐 I'm Erwan Lo Presti, an 20 year old French student<br>
-    🎓 I'm in my 1st year at Epitech (class of 2030) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
-    ✍️ I'm learning computer science and programming<br>
-    📌 I live in Grasse in the Alpes maritimes in France<br>
-    📄 You can acces to my curriculum vitae <a href="https://github.com/toro-nicolas/toro-nicolas/blob/main/TORO%20Nicolas%20-%20CV.pdf">here</a>
+    🌐 I’m Erwan Lo Presti, a 20-year-old French student passionate about technology.<br>
+    🎓 Currently pursuing my first year at Epitech (Class of 2030), where I’m diving deep into computer science and programming. <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
+    ✍️ I enjoy developing software and exploring new technologies.<br>
+    📌 Based in Grasse, Alpes-Maritimes, France.<br>
+    📄 Check out my CV here to learn more about my experience and projects.<a href="">here</a>
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;Starting+my+journey+at+Epitech+%F0%9F%8E%93;C+programming+%F0%9F%92%BB;Exploring+Full-Stack+development+%F0%9F%8C%90;Diving+into+AI+and+Data+science+%F0%9F%A4%96;Curious+about+cybersecurity+%F0%9F%94%92;Always+coding,+always+growing+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
