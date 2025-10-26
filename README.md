@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Erwan Lo presti !</h1>
+<h1 align="center">Hi 👋, I'm Erwan Lo Presti !</h1>
 <h3 align="center">👨🏻‍🦱 About me</h3>
 <p align="center">
-    🌐 I'm Erwan Lo Presit, an 20 year old French student<br>
+    🌐 I'm Erwan Lo Presti, an 20 year old French student<br>
     🎓 I'm in my 1st year at Epitech (class of 2030) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
     ✍️ I'm learning computer science and programming<br>
     📌 I live in Grasse in the Alpes maritimes in France<br>
@@ -43,7 +43,7 @@
 
 ## 📫 Contact Me
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) `erwan.lo-presti@epitech.eu`  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/erwanlo](https://www.linkedin.com/)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/erwanlo](https://www.linkedin.com/in/erwanlo)  
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) `erwanlo`
 
 ---
