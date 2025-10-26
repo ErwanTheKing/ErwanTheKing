@@ -17,19 +17,15 @@ Je suis passionné par **la cybersécurité, le développement et les nouvelles 
 
 ### Langages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c%2B%2B) 
 
 ### Frameworks / Outils
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ### Autres
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+![Clion](https://img.shields.io/badge/-Clion-333?style=flat&logo=clion)
 
 ---
 
