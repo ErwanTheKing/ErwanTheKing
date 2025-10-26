@@ -17,3 +17,20 @@
 [![Epitech](https://img.shields.io/badge/EPITECH-STUDENT-45B7D1?style=for-the-badge&logo=studyverse)](https://www.epitech.eu/)
 
 </div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErwanTheKing&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErwanTheKing&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErwanTheKing&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD93D&currStreakLabel=4ECDC4" alt="GitHub Streak Stats"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErwanTheKing&theme=redical&hide_border=true&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD93D" alt="GitHub Activity Graph"/>
+
+</div>
