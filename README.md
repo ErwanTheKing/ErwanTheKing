@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErwanTheKing&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErwanTheKing&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErwanTheKing&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=FF6B6B&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErwanTheKing&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true&bg_color=0D1117&title_color=8000204&text_color=ffffff"/>
 
 </div>
