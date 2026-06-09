@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erwan Lo Presti !</h1>
 <h3 align="center">👨🏻‍🦱 About me</h3>
 <p align="center">
-    🌐 I’m Erwan Lo Presti, a 20-year-old French student passionate about technology.<br>
+    🌐 I’m Erwan Lo Presti, a 21-year-old French student passionate about technology.<br>
     🎓 Currently pursuing my first year at Epitech (Class of 2030), where I’m diving deep into computer science and programming. <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
     ✍️ I enjoy developing software and exploring new technologies.<br>
     📌 Based in Grasse, Alpes-Maritimes, France.<br>
